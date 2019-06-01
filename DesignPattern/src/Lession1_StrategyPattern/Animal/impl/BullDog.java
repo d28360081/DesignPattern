@@ -1,4 +1,4 @@
-package Lession1_InterfaceModifyDesign.Animal.impl;
+package Lession1_StrategyPattern.Animal.impl;
 
 public class BullDog extends Dog{
 	private String name;

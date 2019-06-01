@@ -1,6 +1,6 @@
-package Lession1_InterfaceModifyDesign.Behavior.impl;
+package Lession1_StrategyPattern.Behavior.impl;
 
-import Lession1_InterfaceModifyDesign.Behavior.RunBehavior;
+import Lession1_StrategyPattern.Behavior.RunBehavior;
 
 public class RunbyObject implements RunBehavior{
 

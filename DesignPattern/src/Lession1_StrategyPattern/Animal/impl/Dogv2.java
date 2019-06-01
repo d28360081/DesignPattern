@@ -1,7 +1,7 @@
-package Lession1_InterfaceModifyDesign.Animal.impl;
+package Lession1_StrategyPattern.Animal.impl;
 
-import Lession1_InterfaceModifyDesign.Behavior.BarkBehavior;
-import Lession1_InterfaceModifyDesign.Behavior.RunBehavior;
+import Lession1_StrategyPattern.Behavior.BarkBehavior;
+import Lession1_StrategyPattern.Behavior.RunBehavior;
 
 public abstract class Dogv2 {
 	private String display;

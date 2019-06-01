@@ -1,4 +1,4 @@
-package Lession1_InterfaceModifyDesign.Animal.impl;
+package Lession1_StrategyPattern.Animal.impl;
 
 public class ToyDog extends Dog{
 	private String name;
@@ -25,13 +25,13 @@ public class ToyDog extends Dog{
 
 	@Override
 	public void bark() {
-		//ª±¨ãª¯¤£·|¥s ¨º...?
-		//¿ï¾Ü¤£¹ê§@
+		//ï¿½ï¿½ï¿½ãª¯ï¿½ï¿½ï¿½|ï¿½s ï¿½ï¿½...?
+		//ï¿½ï¿½Ü¤ï¿½ï¿½ï¿½@
 	}
 
 	@Override
 	public void run() {
-		//ª±¨ãª¯¤£·|¶] ¨º...?
-		//¿ï¾Ü¤£¹ê§@
+		//ï¿½ï¿½ï¿½ãª¯ï¿½ï¿½ï¿½|ï¿½] ï¿½ï¿½...?
+		//ï¿½ï¿½Ü¤ï¿½ï¿½ï¿½@
 	}
 }

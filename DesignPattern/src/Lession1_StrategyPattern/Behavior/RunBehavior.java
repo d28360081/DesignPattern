@@ -1,4 +1,4 @@
-package Lession1_InterfaceModifyDesign.Behavior;
+package Lession1_StrategyPattern.Behavior;
 
 public interface RunBehavior {
 	public void run();

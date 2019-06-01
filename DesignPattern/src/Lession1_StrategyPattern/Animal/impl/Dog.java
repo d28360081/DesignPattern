@@ -1,6 +1,6 @@
-package Lession1_InterfaceModifyDesign.Animal.impl;
+package Lession1_StrategyPattern.Animal.impl;
 
-import Lession1_InterfaceModifyDesign.Animal.Animal;
+import Lession1_StrategyPattern.Animal.Animal;
 
 public abstract class Dog implements Animal{
 	private String display;

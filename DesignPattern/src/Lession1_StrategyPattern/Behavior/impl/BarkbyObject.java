@@ -1,6 +1,6 @@
-package Lession1_InterfaceModifyDesign.Behavior.impl;
+package Lession1_StrategyPattern.Behavior.impl;
 
-import Lession1_InterfaceModifyDesign.Behavior.BarkBehavior;
+import Lession1_StrategyPattern.Behavior.BarkBehavior;
 
 public class BarkbyObject implements BarkBehavior{
 

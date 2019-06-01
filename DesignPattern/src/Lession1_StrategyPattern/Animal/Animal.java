@@ -1,4 +1,4 @@
-package Lession1_InterfaceModifyDesign.Animal;
+package Lession1_StrategyPattern.Animal;
 
 /**
  * @author Mike

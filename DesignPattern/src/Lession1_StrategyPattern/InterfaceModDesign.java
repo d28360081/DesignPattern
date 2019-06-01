@@ -1,13 +1,13 @@
-package Lession1_InterfaceModifyDesign;
+package Lession1_StrategyPattern;
 
-import Lession1_InterfaceModifyDesign.Animal.impl.BullDog;
-import Lession1_InterfaceModifyDesign.Animal.impl.Dogv2;
-import Lession1_InterfaceModifyDesign.Animal.impl.ToyDogv2;
-import Lession1_InterfaceModifyDesign.Behavior.BarkBehavior;
-import Lession1_InterfaceModifyDesign.Behavior.RunBehavior;
-import Lession1_InterfaceModifyDesign.Behavior.impl.BarkbyObject;
-import Lession1_InterfaceModifyDesign.Behavior.impl.RunbyObject;
-import Lession1_InterfaceModifyDesign.Animal.impl.ToyDog;
+import Lession1_StrategyPattern.Animal.impl.BullDog;
+import Lession1_StrategyPattern.Animal.impl.Dogv2;
+import Lession1_StrategyPattern.Animal.impl.ToyDog;
+import Lession1_StrategyPattern.Animal.impl.ToyDogv2;
+import Lession1_StrategyPattern.Behavior.BarkBehavior;
+import Lession1_StrategyPattern.Behavior.RunBehavior;
+import Lession1_StrategyPattern.Behavior.impl.BarkbyObject;
+import Lession1_StrategyPattern.Behavior.impl.RunbyObject;
 
 /**
  * 
