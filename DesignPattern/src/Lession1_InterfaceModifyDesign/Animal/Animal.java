@@ -1,7 +1,6 @@
 package Lession1_InterfaceModifyDesign.Animal;
 
 /**
- * 動物的統一介面
  * @author Mike
  *
  */

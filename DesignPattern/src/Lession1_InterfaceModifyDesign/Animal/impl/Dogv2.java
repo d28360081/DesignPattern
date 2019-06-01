@@ -8,7 +8,6 @@ public abstract class Dogv2 {
 	private String name;
 	private BarkBehavior bark;
 	private RunBehavior run;
-	//重購之後的方式
 	public void barkBehavior() {
 		bark.bark();
 	}
